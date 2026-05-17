@@ -1,7 +1,7 @@
 # RoasteryLogistics
 ## Course: Object Oriented Programming
 
-## Assignment: OOP Project 2
+## Assignment: OOP Project 3
 
 ## Student: Semion Yohannes
 ## Project Description
