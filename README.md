@@ -1,5 +1,9 @@
 # RoasteryLogistics
+## Course: Object Oriented Programming
 
+## Assignment: OOP Project 2
+
+## Student: Semion Yohannes
 ## Project Description
 RoasteryLogistics is a Java console application that simulates end-to-end coffee production tracking inside a roastery. It models key roles (manager and production workers), lets the manager define weight and quality targets, and allows each role to record work data. The system then calculates quality scores, contribution percentages, and progress reports so production performance can be monitored consistently from one stage to the next.
 
